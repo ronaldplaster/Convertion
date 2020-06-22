@@ -1,0 +1,45 @@
+.main {
+	background-color: #FFFFFF;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 20px;
+	border-bottom-width: 20px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #131586;
+	border-bottom-color: #131586;
+	width: 550px;
+	max-width: 90%;
+	text-align: center;
+	padding: 20px;
+	padding-top: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #666666;
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(50, 50, 50, 1);
+	-moz-box-shadow:    0px 0px 10px 0px rgba(50, 50, 50, 1);
+	box-shadow:         0px 0px 10px 0px rgba(50, 50, 50, 1);
+}
+h1 {
+	color: #666;
+	font-size: 28px;
+	font-weight: normal;
+	margin-top: 100px;
+}
+
+.text {
+  text-align: center;
+	padding: 10px;
+	position: top;
+	color: #131586;
+}
+.btn {
+	font-family: arial;
+	font-size:14px;
+	text-transform: uppercase;
+	font-weight:700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+}
